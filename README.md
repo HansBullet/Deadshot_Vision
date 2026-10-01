@@ -54,7 +54,7 @@ pip install ultralytics PyQt6 opencv-python numpy mss pywin32
 
 3. **Run the Application:**
    \`\`\`bash
-   python AIMBOT.py
+   python application.py
    \`\`\`
 
 ---
@@ -88,13 +88,5 @@ To build a standalone Windows executable using PyInstaller:
    \`\`\`
 
 3. **Output:**
-   The compiled folder will be available inside the `dist/AIMBOT/` directory. Run `AIMBOT.exe` as Administrator for proper input privileges over game windows.
+   The compiled folder will be available inside the `dist/AIMBOT/` directory. Run `application.exe` as Administrator for proper input privileges over game windows.
 
----
-
-## Disclaimer & Fair Use Notice
-
-This software is developed strictly for **educational, experimental, and research purposes** concerning computer vision, real-time object detection, and GUI overlays. 
-
-* The use of automated assistance scripts in online competitive multiplayer games may violate the Terms of Service (ToS) of game developers and result in permanent account suspension.
-* The developers assume no responsibility for any misuse, account penalties, or damages arising from the application of this code.
